@@ -1,0 +1,41 @@
+10
+1
+Indomie Sedap
+4000
+100
+2
+Indomie Kari Ayam
+4000
+100
+3
+Susu Indomilk Kental Manis
+10000
+100
+4
+Sosis Son Nice
+1000
+50
+5
+Nutrisari Jeruk
+500
+25
+6
+Nutrisari Anggur
+500
+25
+7
+Teajus Gula Batu
+500
+50
+8
+Asus ROG Phone 10
+1.2e+07
+10
+9
+Iphone 20 Pro Max
+5e+07
+5
+10
+Lamborghini Gallardo
+1e+11
+1
